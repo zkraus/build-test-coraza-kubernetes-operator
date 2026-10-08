@@ -1,0 +1,3 @@
+[submodule "coraza-kubernetes-operator"]
+	path = coraza-kubernetes-operator
+	url = git@github.com:networking-incubator/coraza-kubernetes-operator.git
